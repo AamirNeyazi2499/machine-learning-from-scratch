@@ -28,8 +28,11 @@ The goal is to understand ML concepts step-by-step, from basic data handling to 
 | 16 | Confusion Matrix | Evaluating classification performance |
 | 17 | Imbalanced Data | Techniques for handling class imbalance |
 | 18 | Naive Bayes | Implementing Gaussian Naive Bayes classifier |
-| 19 | Decision Tree | Implementing and visualizing Decision Tree models |
-| More To Come Soon...  |
+| 19 | Decision Tree (Classification) | Implementing and visualizing Decision Tree Classifier |
+| 20 | Decision Tree (Regression) | Using Decision Tree for regression tasks |
+| 21 | K-Nearest Neighbor (KNN) | Implementing KNN algorithm for classification |
+| 22 | Support Vector Machine (SVM) | Implementing SVM for classification tasks |
+| 23 | Hyperparameter Tuning | Improving model performance using GridSearchCV |
 ---
 
 ## 🧩 Tech Stack
