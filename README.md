@@ -33,7 +33,7 @@ The goal is to understand ML concepts step-by-step, from basic data handling to 
 | 21 | K-Nearest Neighbor (KNN) | Implementing KNN algorithm for classification |
 | 22 | Support Vector Machine (SVM) | Implementing SVM for classification tasks |
 | 23 | Hyperparameter Tuning | Improving model performance using GridSearchCV |
-| More to come soon...|
+| More to come soon...
 ---
 
 ## 🧩 Tech Stack
