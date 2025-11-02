@@ -34,6 +34,8 @@ The goal is to understand ML concepts step-by-step, from basic data handling to 
 | 22 | Support Vector Machine (SVM) | Implementing SVM for classification tasks |
 | 23 | Hyperparameter Tuning | Improving model performance using GridSearchCV |
 | 24 | Cross Validation | Evaluating model reliability with K-Fold Cross Validation |
+| 25 | K-Means Clustering | Unsupervised learning with K-Means algorithm |
+| 26 | Hierarchical Clustering | Visualizing hierarchical relationships using dendrograms |
 | More to come soon... |
 ---
 
