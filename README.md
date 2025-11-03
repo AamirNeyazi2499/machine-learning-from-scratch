@@ -36,6 +36,7 @@ The goal is to understand ML concepts step-by-step, from basic data handling to 
 | 24 | Cross Validation | Evaluating model reliability with K-Fold Cross Validation |
 | 25 | K-Means Clustering | Unsupervised learning with K-Means algorithm |
 | 26 | Hierarchical Clustering | Visualizing hierarchical relationships using dendrograms |
+| 27 |  |  |
 | More to come soon... |
 ---
 
